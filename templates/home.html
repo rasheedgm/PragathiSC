@@ -1,0 +1,21 @@
+<div class="panel panel-primary">
+    <div class="panel-heading"><h4>All Members</h4></div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Member Id</th>
+                <th>Name</th>
+                <th>Phone</th>
+            </tr>
+            </thead>
+        <tbody>
+            <tr ng-repeat="member in members track by $index">
+                <td>{{member.Id}}</td>
+                <td>{{member.Name}}</td>
+                <td>{{member.Phone}}</td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>
+
