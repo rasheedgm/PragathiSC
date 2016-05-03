@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.pragathisc.in" version="1.0.0">
-  <name>Invetory Musta</name>
-  <description>Inventory</description>
+  <name>Pragathi</name>
+  <description>Pragathi sports club</description>
   <author href="http://phonegap.com" email="pragathisc@gmail.com.com">Pragathi</author>
   <content src="index.html"/>
   <feature name="http://api.phonegap.com/1.0/network"/>
